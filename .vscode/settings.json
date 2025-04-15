@@ -1,0 +1,14 @@
+{
+	"[luau]": {
+		"editor.defaultFormatter": "JohnnyMorganz.stylua"
+	},
+	"luau-lsp.plugin.enabled": true,
+	"luau-lsp.fflags.enableNewSolver": true,
+	"luau-lsp.completion.enableFragmentAutocomplete": true,
+	"luau-lsp.completion.imports.enabled": true,
+	"luau-lsp.completion.imports.separateGroupsWithLine": true,
+	"luau-lsp.inlayHints.parameterNames": "literals",
+	//"luau-lsp.inlayHints.variableTypes": true,
+	"editor.semanticHighlighting.enabled": true,
+	"terminal.integrated.minimumContrastRatio": 1,
+}

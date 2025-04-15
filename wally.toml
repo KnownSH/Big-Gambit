@@ -1,0 +1,16 @@
+[package]
+name = "knownsh/minigame-game-game"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+include = [
+  "src",
+  "src/**/*"
+]
+
+[dependencies]
+GreenTea = "corecii/greentea@0.4.11"
+squash = "data-oriented-house/squash@2.5.0"
+jecs = "ukendio/jecs@0.5.3"
+Planck = "yetanotherclown/planck@0.2.0-rc.2"
+PlanckRunService = "yetanotherclown/planck-runservice@0.2.0-rc.1"

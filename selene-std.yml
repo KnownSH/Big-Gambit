@@ -1,0 +1,6 @@
+base: roblox
+name: selene-std
+globals:
+  require:
+    args:
+      - type: string
