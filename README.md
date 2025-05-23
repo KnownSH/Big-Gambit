@@ -1,3 +1,6 @@
+> [!NOTE]
+Im currently working on Gambit Engine privately, this repo will be updated once its in a stable state :)
+
 <h3 align="center">
   <img src="assets/Gambit_Engine_Logo.svg" width="500" /><br/>
   Derg-coded monolith tooling in 100% strict Luau using Jecs and React for <b>Big Gambit!</b><br/>This repo contains most of the code used in the game!
